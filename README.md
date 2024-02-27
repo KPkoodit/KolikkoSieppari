@@ -1,5 +1,4 @@
-# Project Name
-KolikkoSieppari
+# KolikkoSieppari
 
 ## Description
 Oletko valmis haastamaan möröt kolikoiden sieppaamisessa? Tarkastelet python-kurssin lopputyönä luotua peliä, jossa kilpaillaan mörköjä vastaan keräämällä taivaalta tippuvia kolikoita. Pelihahmonasi on robotti. Robotin, mörön ja kolikon kuvat on annettu valmiiksi eikä niitä saa muuttaa. Peliin ei myöskään saa lisätä omia ladattavia kuvia. Kaiken muun voi luoda vapaasti.
