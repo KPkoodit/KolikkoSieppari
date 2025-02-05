@@ -1,7 +1,7 @@
 # KolikkoSieppari
 
 ## Kuvaus
-Oletko valmis haastamaan möröt kolikoiden sieppaamisessa? Tarkastelet MOOC Ohjelmointi-kurssin lopputyönä luotua peliä, jossa kilpaillaan mörköjä vastaan keräämällä taivaalta tippuvia kolikoita. Pelihahmonasi on robotti. Robotin, mörön ja kolikon kuvat oli annettu valmiiksi eikä muita kuvatiedostoja saanut käyttää. Muuten pelin luomisessa oli vapaat kädet.
+Oletko valmis haastamaan möröt kolikoiden sieppaamisessa? Tarkastelet MOOC Ohjelmointi -kurssin lopputyönä luotua peliä, jossa kilpaillaan mörköjä vastaan keräämällä taivaalta tippuvia kolikoita. Pelihahmonasi on robotti. Robotin, mörön ja kolikon kuvat oli annettu valmiiksi eikä muita kuvatiedostoja saanut käyttää. Muuten pelin luomisessa oli vapaat kädet.
 
 ## Asennus
 Peli toimii IDE:n kautta ajettuna eikä erillistä installeria tarvita. Kloonaa repository koneellesi ja avaa se mieleisessäsi editorissa, joka pystyy käynnistämään python-koodia. Käynnistä main.py-tiedoston kautta.
