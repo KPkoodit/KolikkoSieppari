@@ -1,6 +1,5 @@
 # KolikkoSieppari
 
-## Kuvaus
 Oletko valmis haastamaan möröt kolikoiden sieppaamisessa? Tarkastelet MOOC Ohjelmointi -kurssin lopputyönä luotua peliä, jossa kilpaillaan mörköjä vastaan keräämällä taivaalta tippuvia kolikoita. Pelihahmonasi on robotti. Robotin, mörön ja kolikon kuvat oli annettu valmiiksi eikä muita kuvatiedostoja saanut käyttää. Muuten pelin luomisessa oli vapaat kädet.
 
 ## Asennus ja käyttö
