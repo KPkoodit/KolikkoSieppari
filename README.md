@@ -3,14 +3,17 @@
 ## Kuvaus
 Oletko valmis haastamaan möröt kolikoiden sieppaamisessa? Tarkastelet MOOC Ohjelmointi -kurssin lopputyönä luotua peliä, jossa kilpaillaan mörköjä vastaan keräämällä taivaalta tippuvia kolikoita. Pelihahmonasi on robotti. Robotin, mörön ja kolikon kuvat oli annettu valmiiksi eikä muita kuvatiedostoja saanut käyttää. Muuten pelin luomisessa oli vapaat kädet.
 
-## Asennus
+## Asennus ja käyttö
 Peli toimii IDE:n kautta ajettuna eikä erillistä installeria tarvita. Kloonaa repository koneellesi ja avaa se mieleisessäsi editorissa, joka pystyy käynnistämään python-koodia. Käynnistä main.py-tiedoston kautta.
 
-## Käyttö
 Robotti liikkuu nuolinääppäimistä ja hyppää välilyönnistä. Uuden pelin saa käynnistettyä klikkaamalla hiirellä peliruutua. Ohjeistus on näkyvillä myös pelissä.
 
 ## Kuvat
 Repositoryn docs-osiosta löytyy muutamia kuvia pelistä.
+
+## Teknologiat
+-Python
+-Pygame
 
 ## In English
 Are you ready to challenge the monsters at coin gathering game? In this a game you are playing as a robot whose goal is to gather as many raining coins as possible. The game is created as a final project of a python course and it was necessary to use only given images (hirvio.png, kolikko.png, ovi.png and robo.png) and everything else should be created using python only.
