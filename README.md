@@ -8,12 +8,12 @@ Peli toimii IDE:n kautta ajettuna eikä erillistä installeria tarvita. Kloonaa 
 
 Robotti liikkuu nuolinääppäimistä ja hyppää välilyönnistä. Uuden pelin saa käynnistettyä klikkaamalla hiirellä peliruutua. Ohjeistus on näkyvillä myös pelissä.
 
+## Teknologiat
+- Python
+- Pygame
+
 ## Kuvat
 Repositoryn docs-osiosta löytyy muutamia kuvia pelistä.
-
-## Teknologiat
--Python
--Pygame
 
 ## In English
 Are you ready to challenge the monsters at coin gathering game? In this a game you are playing as a robot whose goal is to gather as many raining coins as possible. The game is created as a final project of a python course and it was necessary to use only given images (hirvio.png, kolikko.png, ovi.png and robo.png) and everything else should be created using python only.
