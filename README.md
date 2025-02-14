@@ -15,7 +15,7 @@ Robotti liikkuu nuolinääppäimistä ja hyppää välilyönnistä. Uuden pelin 
 Repositoryn docs-osiosta löytyy muutamia kuvia pelistä.
 
 ## In English
-Are you ready to challenge the monsters at coin gathering game? In this a game you are playing as a robot whose goal is to gather as many raining coins as possible. The game is created as a final project of a python course and it was necessary to use only given images (hirvio.png, kolikko.png, ovi.png and robo.png) and everything else should be created using python only.
+Are you ready to challenge the monsters at a coin gathering game? In this a game you are playing as a robot whose goal is to gather as many raining coins as possible. The game was created as a final project of a MOOC Programming course. Only given images (hirvio.png, kolikko.png, ovi.png and robo.png) were allowed to use and everything else should be created using Python.
 
 The code has been written using finnish and it is necessary to understand some finnish to understand the code better. The names of the methods have been written to describe everything that is happening in the code instead of using comments.
 
